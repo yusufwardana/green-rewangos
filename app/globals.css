@@ -328,7 +328,7 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
   .hero-art { top: -5px; right: -16%; width: 80%; height: 310px; border-radius: 48% 0 0 46%; opacity: .88; }
   .hero-art img { object-position: 62% center; }
   .hero-art-wash { background: linear-gradient(90deg, rgba(234,246,234,.82) 0%, rgba(234,246,234,.4) 40%, transparent 100%), linear-gradient(0deg, rgba(232,245,232,.9), transparent 53%); }
-  .art-caption { right: 15px; bottom: 14px; padding: 7px 10px; font-size: .68rem; }
+  .art-caption { display: none; }
   .hero-copy { width: 100%; padding: 0 4px; }
   .location-kicker { margin-bottom: 13px; font-size: .6rem; letter-spacing: .12em; }
   .hero h1 { font-size: clamp(3.4rem, 14vw, 5rem); }
